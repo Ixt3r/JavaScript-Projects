@@ -29,6 +29,10 @@ const wordList = [
   },
   {
     word: "Pixel",
-    hint: " O menor elemento de uma imagem em uma tela",
+    hint: " O menor elemento de uma imagem em tela",
+  },
+  {
+    word: "Ouro",
+    hint: " Um metal amarelo precioso",
   },
 ];
